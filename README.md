@@ -43,4 +43,29 @@
     <td width="400">Introduction to .NET core</td>
     <td><img alt="Introduction to .NET core" src="https://user-images.githubusercontent.com/3094339/27297070-9797bd1e-554d-11e7-9caf-1d98893a9f1d.png" width="350" align="middle"></td>
   </tr>
+  <tr>
+    <td width="120">23/08/2016</td>
+    <td width="400">Demystifying LINQ</td>
+    <td><img alt="Demystifying LINQ" src="https://user-images.githubusercontent.com/3094339/28571178-dad1fa56-716b-11e7-928b-ffd6698f10c7.png" width="350" align="middle"></td>
+  </tr>
+  <tr>
+    <td width="120">14/08/2016</td>
+    <td width="400">Microservices Design and Patterns</td>
+    <td><img alt="Microservices Design and Patterns" src="https://user-images.githubusercontent.com/3094339/28571179-dad68ab2-716b-11e7-93ba-e592f81d2a4f.png" width="350" align="middle"></td>
+  </tr>
+</table>
+
+# Pluralsight certificates
+# Udemy certificates
+<table>
+  <tr>
+    <th>Date</th>
+    <th>Course</th>
+    <th>Preview</th>
+  </tr>
+  <tr>
+    <td width="120">31/01/2017</td>
+    <td width="400">Introduction to Python programming</td>
+    <td><img alt="Introduction to Python programming" src="https://user-images.githubusercontent.com/3094339/28571109-85a7ce20-716b-11e7-84aa-647089815480.jpg" width="350" align="middle"></td>
+  </tr>
 </table>
