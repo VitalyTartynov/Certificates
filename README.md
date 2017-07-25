@@ -39,23 +39,41 @@
     <th>Preview</th>
   </tr>
   <tr>
-    <td width="120">22/09/2016</td>
-    <td width="400">Introduction to .NET core</td>
-    <td><img alt="Introduction to .NET core" src="https://user-images.githubusercontent.com/3094339/27297070-9797bd1e-554d-11e7-9caf-1d98893a9f1d.png" width="350" align="middle"></td>
+    <td width="120">14/08/2016</td>
+    <td width="400">Microservices Design and Patterns</td>
+    <td><img alt="Microservices Design and Patterns" src="https://user-images.githubusercontent.com/3094339/28571179-dad68ab2-716b-11e7-93ba-e592f81d2a4f.png" width="350" align="middle"></td>
   </tr>
   <tr>
     <td width="120">23/08/2016</td>
     <td width="400">Demystifying LINQ</td>
     <td><img alt="Demystifying LINQ" src="https://user-images.githubusercontent.com/3094339/28571178-dad1fa56-716b-11e7-928b-ffd6698f10c7.png" width="350" align="middle"></td>
-  </tr>
+  </tr>  
   <tr>
-    <td width="120">14/08/2016</td>
-    <td width="400">Microservices Design and Patterns</td>
-    <td><img alt="Microservices Design and Patterns" src="https://user-images.githubusercontent.com/3094339/28571179-dad68ab2-716b-11e7-93ba-e592f81d2a4f.png" width="350" align="middle"></td>
+    <td width="120">22/09/2016</td>
+    <td width="400">Introduction to .NET core</td>
+    <td><img alt="Introduction to .NET core" src="https://user-images.githubusercontent.com/3094339/27297070-9797bd1e-554d-11e7-9caf-1d98893a9f1d.png" width="350" align="middle"></td>
   </tr>
 </table>
 
 # Pluralsight certificates
+<table>
+  <tr>
+    <th>Date</th>
+    <th>Course</th>
+    <th>Preview</th>
+  </tr>
+  <tr>
+    <td width="120">26/08/2016</td>
+    <td width="400">LINQ Architecture</td>
+    <td><img alt="LINQ Architecture" src="https://user-images.githubusercontent.com/3094339/28571399-e59e1612-716c-11e7-9c8a-388dade0a684.png" width="350" align="middle"></td>
+  </tr>
+  <tr>
+    <td width="120">31/08/2016</td>
+    <td width="400">Developing Extensible Software</td>
+    <td><img alt="Developing Extensible Software" src="https://user-images.githubusercontent.com/3094339/28571337-aa7ae4fc-716c-11e7-856b-2ed5a1b2715e.png" width="350" align="middle"></td>
+  </tr>
+</table>
+
 # Udemy certificates
 <table>
   <tr>
