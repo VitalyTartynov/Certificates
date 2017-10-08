@@ -97,7 +97,7 @@
   </tr>
   <tr>
     <td width="120">22/09/2017</td>
-    <td width="400">[Rubius](http://rubius.com)</td>
+    <td width="400"><a href="http://rubius.com">Rubius</a></td>
     <td><img alt="Rubius recommendation" src="https://user-images.githubusercontent.com/3094339/31163060-c81f1304-a90a-11e7-8e7e-17b60d254477.png" width="350" align="middle"></td>
   </tr>
 </table>
