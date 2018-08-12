@@ -88,6 +88,18 @@
   </tr>
 </table>
 
+# Software registration certificates
+<table>
+  <tr>
+    <th>Date</th>
+    <th>Work</th>
+    <th>Preview</th>
+  </tr><td width="120">19/02/2018</td>
+    <td width="400">ТомскНИПИнефть</td>
+    <td><img alt="Свидетельство о регистрации СТПК" src="https://user-images.githubusercontent.com/3094339/43999073-b696d8fa-9e2e-11e8-8bf5-6213e8da398e.png" width="350" align="middle"></td>
+  </tr>
+</table>
+
 # Recommendations
 <table>
   <tr>
