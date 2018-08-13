@@ -84,7 +84,7 @@
   <tr>
     <td width="120">31/01/2017</td>
     <td width="400">Introduction to Python programming</td>
-    <td><img alt="Introduction to Python programming" src="https://user-images.githubusercontent.com/3094339/28571109-85a7ce20-716b-11e7-84aa-647089815480.jpg" width="350" align="middle"></td>
+    <td><img alt="Introduction to Python programming" src="https://user-images.githubusercontent.com/3094339/44008304-3f94bf6c-9ecc-11e8-8f89-8f0e9c62a370.jpg" width="350" align="middle"></td>
   </tr>
 </table>
 
