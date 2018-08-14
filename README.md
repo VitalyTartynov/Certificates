@@ -93,9 +93,13 @@
   <tr>
     <th>Date</th>
     <th>Work</th>
-    <th>Preview</th>
+    <th>Preview</th>    
+  </tr><td width="120">05/09/2016</td>
+    <td width="400">Rubius</td>
+    <td><img alt="Свидетельство о регистрации Rubius DREAM" src="https://user-images.githubusercontent.com/3094339/44066791-74c2994a-9f9c-11e8-95c5-d319608f737f.jpg" width="350" align="middle"></td>
+  </tr>  
   </tr><td width="120">19/02/2018</td>
-    <td width="400">ТомскНИПИнефть</td>
+    <td width="400">Роснефть</td>
     <td><img alt="Свидетельство о регистрации СТПК" src="https://user-images.githubusercontent.com/3094339/43999073-b696d8fa-9e2e-11e8-8bf5-6213e8da398e.png" width="350" align="middle"></td>
   </tr>
 </table>
