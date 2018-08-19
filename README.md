@@ -115,5 +115,10 @@
     <td width="120">22/09/2017</td>
     <td width="400"><a href="http://rubius.com">Rubius</a></td>
     <td><img alt="Rubius recommendation" src="https://user-images.githubusercontent.com/3094339/31163060-c81f1304-a90a-11e7-8e7e-17b60d254477.png" width="350" align="middle"></td>
-  </tr>
+  </tr>  
+  <tr>
+    <td width="120">17/08/2018</td>
+    <td width="400">ТомскНИПИнефть</td>
+    <td><img alt="TomskNIPIneft recommendation" src="https://user-images.githubusercontent.com/3094339/44310829-ff03d380-a406-11e8-9286-4de67956cd6c.png" width="350" align="middle"></td>
+  </tr>  
 </table>
