@@ -72,6 +72,11 @@
     <td width="400">Developing Extensible Software</td>
     <td><img alt="Developing Extensible Software" src="https://user-images.githubusercontent.com/3094339/28571337-aa7ae4fc-716c-11e7-856b-2ed5a1b2715e.png" width="350" align="middle"></td>
   </tr>
+  <tr>
+    <td width="120">26/10/2018</td>
+    <td width="400">Developing Extensible Software</td>
+    <td><img alt="AngularJS Get Started" src="https://user-images.githubusercontent.com/3094339/47696937-76da4f80-dc3b-11e8-934f-0cce130bcc6d.jpg" width="350" align="middle"></td>
+  </tr>  
 </table>
 
 # Udemy certificates
