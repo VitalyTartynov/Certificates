@@ -74,7 +74,7 @@
   </tr>
   <tr>
     <td width="120">26/10/2018</td>
-    <td width="400">Developing Extensible Software</td>
+    <td width="400">AngularJS Get Started</td>
     <td><img alt="AngularJS Get Started" src="https://user-images.githubusercontent.com/3094339/47696937-76da4f80-dc3b-11e8-934f-0cce130bcc6d.jpg" width="350" align="middle"></td>
   </tr>  
 </table>
@@ -90,6 +90,11 @@
     <td width="120">31/01/2017</td>
     <td width="400">Introduction to Python programming</td>
     <td><img alt="Introduction to Python programming" src="https://user-images.githubusercontent.com/3094339/44008304-3f94bf6c-9ecc-11e8-8f89-8f0e9c62a370.jpg" width="350" align="middle"></td>
+  </tr>
+  <tr>
+    <td width="120">29/10/2018</td>
+    <td width="400">Arcade classic in JavaScript on canvas</td>
+    <td><img alt="Arcade classic in JavaScript on canvas" src="https://user-images.githubusercontent.com/3094339/47697609-6bd4ee80-dc3e-11e8-9c69-4fd318addf1a.jpg" width="350" align="middle"></td>
   </tr>
 </table>
 
