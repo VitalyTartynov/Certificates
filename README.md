@@ -82,6 +82,11 @@
     <td width="400">Resharper Fundamentals</td>
     <td><img alt="Resharper Fundamentals" src="https://user-images.githubusercontent.com/3094339/47831239-538ddc80-ddc2-11e8-93b7-fd3c6252827c.jpg" width="350" align="middle"></td>
   </tr>
+  <tr>
+    <td width="120">12/11/2018</td>
+    <td width="400">AngularJS: The Big Picture</td>
+    <td><img alt="AngularJS: The Big Picture" src="https://user-images.githubusercontent.com/3094339/48321233-8c943f80-e653-11e8-8d79-56a0f0cbfd8f.jpg" width="350" align="middle"></td>
+  </tr>  
 </table>
 
 # Udemy certificates
