@@ -86,7 +86,12 @@
     <td width="120">12/11/2018</td>
     <td width="400">AngularJS: The Big Picture</td>
     <td><img alt="AngularJS: The Big Picture" src="https://user-images.githubusercontent.com/3094339/48321233-8c943f80-e653-11e8-8d79-56a0f0cbfd8f.jpg" width="350" align="middle"></td>
-  </tr>  
+  </tr>
+  <tr>
+    <td width="120">30/11/2018</td>
+    <td width="400">Angular: The Big Picture</td>
+    <td><img alt="Angular: The Big Picture" src="https://user-images.githubusercontent.com/3094339/49302095-b1643000-f4f8-11e8-9f5f-254e4c83b9f0.jpg" width="350" align="middle"></td>
+  </tr>
 </table>
 
 # Udemy certificates
