@@ -92,6 +92,11 @@
     <td width="400">Angular: The Big Picture</td>
     <td><img alt="Angular: The Big Picture" src="https://user-images.githubusercontent.com/3094339/49302095-b1643000-f4f8-11e8-9f5f-254e4c83b9f0.jpg" width="350" align="middle"></td>
   </tr>
+  <tr>
+    <td width="120">27/12/2018</td>
+    <td width="400">ASP.NET Core MVC Testing Fundamentals</td>
+    <td><img alt="ASP.NET Core MVC Testing Fundamentals" src="https://user-images.githubusercontent.com/3094339/50454778-52210080-097c-11e9-9068-18de4190dd17.jpg" width="350" align="middle"></td>
+  </tr>
 </table>
 
 # Udemy certificates
