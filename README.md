@@ -97,6 +97,11 @@
     <td width="400">ASP.NET Core MVC Testing Fundamentals</td>
     <td><img alt="ASP.NET Core MVC Testing Fundamentals" src="https://user-images.githubusercontent.com/3094339/50454778-52210080-097c-11e9-9068-18de4190dd17.jpg" width="350" align="middle"></td>
   </tr>
+  <tr>
+    <td width="120">21/01/2019</td>
+    <td width="400">Vue.js - Big Picture</td>
+    <td><img alt="Vue.js - Big Picture" src="https://user-images.githubusercontent.com/3094339/51451457-f6257e00-1d67-11e9-8470-812da25830ed.jpg" width="350" align="middle"></td>
+  </tr>
 </table>
 
 # Udemy certificates
