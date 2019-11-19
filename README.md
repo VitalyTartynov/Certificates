@@ -137,6 +137,10 @@
     <td width="400">Роснефть</td>
     <td><img alt="Свидетельство о регистрации СТПК" src="https://user-images.githubusercontent.com/3094339/43999073-b696d8fa-9e2e-11e8-8bf5-6213e8da398e.png" width="350" align="middle"></td>
   </tr>
+  </tr><td width="120">22/08/2018</td>
+    <td width="400">Роснефть</td>
+    <td><img alt="Свидетельство о регистрации OptimalSoil" src="https://user-images.githubusercontent.com/3094339/69155981-636e8080-0aeb-11ea-8559-2e4963203af0.png" width="350" align="middle"></td>
+  </tr>
 </table>
 
 # Recommendations
