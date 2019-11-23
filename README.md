@@ -31,6 +31,30 @@
   </tr>
 </table>
 
+# Software registration certificates
+<table>
+  <tr>
+    <th>Date</th>
+    <th>Work</th>
+    <th>Preview</th>    
+  </tr><td width="120">05/09/2016</td>
+    <td width="400">Rubius</td>
+    <td><img alt="Свидетельство о регистрации Rubius DREAM" src="https://user-images.githubusercontent.com/3094339/44066791-74c2994a-9f9c-11e8-95c5-d319608f737f.jpg" width="350" align="middle"></td>
+  </tr>  
+  </tr><td width="120">19/02/2018</td>
+    <td width="400">Роснефть</td>
+    <td><img alt="Свидетельство о регистрации СТПК" src="https://user-images.githubusercontent.com/3094339/43999073-b696d8fa-9e2e-11e8-8bf5-6213e8da398e.png" width="350" align="middle"></td>
+  </tr>
+  </tr><td width="120">22/08/2018</td>
+    <td width="400">Роснефть</td>
+    <td><img alt="Свидетельство о регистрации OptimalSoil" src="https://user-images.githubusercontent.com/3094339/69155981-636e8080-0aeb-11ea-8559-2e4963203af0.png" width="350" align="middle"></td>
+  </tr>
+  </tr><td width="120">13/09/2019</td>
+    <td width="400">Роснефть</td>
+    <td><img alt="Комплекс для автоматизации прослеживания применения ДТПК в ПСД" src="https://user-images.githubusercontent.com/3094339/69474019-b5e9be80-0dc3-11ea-85a5-993448fc576a.png" width="350" align="middle"></td>
+  </tr>
+</table>
+
 # Microsoft Virtual Academy certificates
 <table>
   <tr>
@@ -120,30 +144,6 @@
     <td width="120">29/10/2018</td>
     <td width="400">Arcade classic in JavaScript on canvas</td>
     <td><img alt="Arcade classic in JavaScript on canvas" src="https://user-images.githubusercontent.com/3094339/47697609-6bd4ee80-dc3e-11e8-9c69-4fd318addf1a.jpg" width="350" align="middle"></td>
-  </tr>
-</table>
-
-# Software registration certificates
-<table>
-  <tr>
-    <th>Date</th>
-    <th>Work</th>
-    <th>Preview</th>    
-  </tr><td width="120">05/09/2016</td>
-    <td width="400">Rubius</td>
-    <td><img alt="Свидетельство о регистрации Rubius DREAM" src="https://user-images.githubusercontent.com/3094339/44066791-74c2994a-9f9c-11e8-95c5-d319608f737f.jpg" width="350" align="middle"></td>
-  </tr>  
-  </tr><td width="120">19/02/2018</td>
-    <td width="400">Роснефть</td>
-    <td><img alt="Свидетельство о регистрации СТПК" src="https://user-images.githubusercontent.com/3094339/43999073-b696d8fa-9e2e-11e8-8bf5-6213e8da398e.png" width="350" align="middle"></td>
-  </tr>
-  </tr><td width="120">22/08/2018</td>
-    <td width="400">Роснефть</td>
-    <td><img alt="Свидетельство о регистрации OptimalSoil" src="https://user-images.githubusercontent.com/3094339/69155981-636e8080-0aeb-11ea-8559-2e4963203af0.png" width="350" align="middle"></td>
-  </tr>
-  </tr><td width="120">13/09/2019</td>
-    <td width="400">Роснефть</td>
-    <td><img alt="Комплекс для автоматизации прослеживания применения ДТПК в ПСД" src="https://user-images.githubusercontent.com/3094339/69474019-b5e9be80-0dc3-11ea-85a5-993448fc576a.png" width="350" align="middle"></td>
   </tr>
 </table>
 
