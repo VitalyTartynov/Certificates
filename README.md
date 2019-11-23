@@ -141,6 +141,10 @@
     <td width="400">Роснефть</td>
     <td><img alt="Свидетельство о регистрации OptimalSoil" src="https://user-images.githubusercontent.com/3094339/69155981-636e8080-0aeb-11ea-8559-2e4963203af0.png" width="350" align="middle"></td>
   </tr>
+  </tr><td width="120">13/09/2019</td>
+    <td width="400">Роснефть</td>
+    <td><img alt="Комплекс для автоматизации прослеживания применения ДТПК в ПСД" src="https://user-images.githubusercontent.com/3094339/69474019-b5e9be80-0dc3-11ea-85a5-993448fc576a.png" width="350" align="middle"></td>
+  </tr>
 </table>
 
 # Recommendations
